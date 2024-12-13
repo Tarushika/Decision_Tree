@@ -39,6 +39,8 @@ Confusion Matrix:
 ![image](https://github.com/user-attachments/assets/02c6a856-f014-45fd-98af-e07d27309544)
 ![image](https://github.com/user-attachments/assets/de0a5d76-82b8-4044-93e8-bbb9ebe496ff)
 ![image](https://github.com/user-attachments/assets/ccb4bf12-aa52-44e1-b4d1-657057fbdd9f)
+![image](https://github.com/user-attachments/assets/27de0ffd-89fb-4cec-b414-e6cd118c31f3)
+
 
 
 
